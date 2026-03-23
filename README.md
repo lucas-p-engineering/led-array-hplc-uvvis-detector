@@ -8,7 +8,7 @@ Linear 205 Components:
 
 New components:
 - ADS1220 (24-bit)
-- Arduino Mega 2560
+- Arduino Mega 2560 Pro Mini
 - USB-C Communication
 - Reed relay-controlled resistor network for fine-tuning
 - UV/VIS LEDs of various wavelengths
