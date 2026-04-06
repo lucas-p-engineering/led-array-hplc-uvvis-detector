@@ -16,6 +16,6 @@ New components:
 
 Current developments:
 - Improved measurement board (sensitivity, noise, shielding)
-- New LED array with broader spectral coverage and a calibration laser
+- New LED array with broader spectral coverage
 - A more precise and low-noise LED control board
 - Optimization, bug fixing and customization of the software
