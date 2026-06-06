@@ -1,5 +1,5 @@
 # led-array-hplc-uvvis-detector
-Development of a UV/VIS HPLC detector using components from a Linear 205 and an ADS1220 (24-bit) with a rotating LED array as light source
+Development of a UV/VIS-HPLC-Detector using components from a Linear 205 and an ADS1220 (24-bit) with a rotating LED-Array as light source
 
 Linear 205 Components:
 - Metal-Housing
