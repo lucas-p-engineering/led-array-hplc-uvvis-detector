@@ -17,7 +17,7 @@ New components:
 Features:
 - Improved measurement board (sensitivity, noise, shielding)
 - New LED-Lamp-Array with broader spectral coverage
-- Precise, low-noise 12-bit LED control board
+- Precise, low-noise 12-bit LED-Control-Board
 
 Current developments:
 - Lamp housing
