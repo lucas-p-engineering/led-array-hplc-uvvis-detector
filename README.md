@@ -22,5 +22,5 @@ Features:
 
 Current developments:
 - Signal Input-/Output-System (Events)
-- Optimization, bug fixing and customization of the software
+- Optimization, bug fixing and customization of the software (SartreAnalysis: https://github.com/lucas-p-engineering/SartreAnalysis---Software)
 - System testing (robustness, reproducibility, detection limits, etc.)
